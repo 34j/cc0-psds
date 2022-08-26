@@ -9,3 +9,10 @@ When searching for these images, be aware that some articles and awesome- reposi
 Those that do not confuse them are below.
 
 [shime/creative\-commons\-media: A curated list of resources that provide media licensed under Creative Commons licenses\.](https://github.com/shime/creative-commons-media)
+
+## Using as a submodule for tests
+
+```shell
+git submodule add https://github.com/34j/cc0-psds.git your_destination_folder
+```
+For details: [Git \- Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
